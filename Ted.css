@@ -1,0 +1,72 @@
+p{
+    margin: 40px 20px;
+}
+body{
+    background-color: gray;
+}
+.White{
+    color: black;
+    background-color: white;
+    margin: 500px;
+    padding: 3px 1rem;
+    border-radius: 6px;
+}
+
+.Sign{
+    width: 50%;
+    color: rgba(57, 100, 219);
+    padding:13px 100px;
+    margin: 1.2rem;
+    font-weight: bolder;
+    display: block;
+}
+
+.xxy{
+     border-style: none;
+     background-color: rgba(57, 100, 219);
+     color: white;
+     padding: 10px 120px;
+     margin-left: 1.3rem;
+     border-radius: 6px;
+     display: block;
+}
+
+.xxy:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.ffy{
+    height: 40px;
+    width: 300px;
+    border-radius: 6px;
+    border: gray 2px solid;
+}
+
+.rrt{
+    height:  40px;
+    width: 300px;
+    border-radius: 6px;
+    border: gray 2px solid;
+}
+
+.eer{
+    height: 25px;
+    width: 140px;
+    padding: 10px 80px;
+    border-radius: 5px;
+    border: gray 1px solid;
+}
+
+.tty{
+    width: 50%;
+    color: rgb(17, 17, 233);
+    padding: 20px 80px;
+    margin: 1.3rem;
+    font-weight: bolder;
+    display: block;
+}
+
+.ttx{
+    font-weight: bolder;
+}
