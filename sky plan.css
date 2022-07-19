@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+.body-container{
+    background-color:rgb(156, 190, 192) ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .body-head{
+    background-color: rgb(175, 230, 232);
+
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    width: 70vw;
+    height: 80vh;
+} */
+.owl{
+    background-color: white;
+    width: 50vw;
+    height:35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem 1rem 0 0;
+}
+.bird{
+    width: 47vw;
+}
+.bird h1,
+.bird h2,
+.bird p{
+    margin: 0.4rem;
+}
+.box{
+    display: flex;
+    background-color: rgba(69, 145, 148, 0.986);
+    width: 50vw;
+    height: 36vh;
+    color: white;
+    border-radius: 0rem 0rem 1rem 1rem;
+}
+button{
+    height: 50px;
+    width: 20vw;
+    color: white;
+    background-color: rgb(161, 216, 31);
+    border-radius: 1rem;
+    font-size: 1rem;
+}
+.one h2,
+.one h1,
+.one p,
+.one button{
+    margin: 1.3rem;
+}
+.one{
+    width: 25vw;
+}
+.sec2{
+   background-color: rgba(96, 232, 235, 0.986);
+   width: 25vw;
+   height: 36vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   /* align-items: center; */
+   border-radius: 0rem 0rem 1rem 0rem;
+}
+.lay p{
+   font-weight: bolder;
+}
+.lay h1,
+.lay p{
+    margin: 1.5rem;
+}
+.lay{
+    width: 14.9vw;
+}
