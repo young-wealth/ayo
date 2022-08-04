@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+}
+header{
+    height: 100vh;
+    background-color: rgb(212, 208, 208);
+}
+.len{
+    font-size: 2.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(71, 71, 248);
+}
+.whit{
+    padding-top: 250px;
+    padding-left: 150px;
+}
+.sec{
+    background-color: white;
+     width: 35%;
+     border-radius: 4px;
+     margin: 120px;
+     padding-left: 25px;
+     padding-top: 45px;
+}
+ header{
+  /* position: relative; */
+  display: flex;
+  justify-content: space-between;
+}
+.ret{
+    height: 50px;
+    border-radius: 4px;
+    width: 94%;
+    margin-bottom: 0.8rem;
+}
+.yiu{
+    height: 50px;
+    border-radius: 4px;
+    width: 94%;
+    margin-bottom: 0.8rem;
+}
+.end{
+    border-style: none;
+     background-color: rgba(57, 100, 219);
+     color: white;
+     height: 40px;
+     width: 94%;
+     /* padding: 10px 120px; */
+     /* margin-left: 1.3rem; */
+     border-radius: 6px;
+     display: block;
+}
+.tty{
+    width: 50%;
+    color: rgb(74, 74, 250);
+    padding: 20px 80px;
+    margin: 0.5rem;
+    font-size: 18px;
+    font-weight: bolder;
+    display: block; 
+    text-align: center;
+}
+.game{
+    border-style: none;
+    background-color: rgb(22, 134, 22);
+    color: white;
+    /* width: 30%; */
+    padding: 13px 80px;
+    /* padding-left: 50px; */
+    margin-left: 4.7rem;
+    font-weight: bolder;
+    border-radius: 6px;
+    display: block;
+    text-align: center;
+}
+.game:hover{
+    background-color: darkslategray;
+    cursor: pointer;
+
+}
+/* .game{
+    height: 45px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    background-color: rgb(48, 168, 48);
+    border-radius: 5px;
+    margin: 40px;
+    font-weight: bolder;
+    border: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} */
